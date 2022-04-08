@@ -1,0 +1,1 @@
+python train.py --data data.yaml --cfg yolov5s.yaml --weights yolov5s.pt --img 416 --epoch 2 --batch-size 1
